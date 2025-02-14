@@ -89,4 +89,4 @@ Hello, this is a secure message!
 ---
 
 PGP remains one of the most **trusted** encryption standards for securing digital communication.
->>>>>>> 7a3d5d497c1ccb9c1ca8146643a5a4792e4754f8
+
