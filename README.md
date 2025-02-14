@@ -8,7 +8,6 @@ git config user.email "your-email@example.com"
 ```
 
 ## Testing
-<<<<<<< HEAD
 In the RestClientTests folder you will find tests.http file. It contains working tests to test key creation, encryption and decryption.
 
 Use 
